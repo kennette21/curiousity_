@@ -10,7 +10,7 @@ npm run build
 cd dist
 
 # if you are deploying to a custom domain
-echo 'curiousity_.tombean.io' > CNAME
+echo 'portfolio.tombean.io/curiousity_' > CNAME
 
 git init
 git checkout -b main
